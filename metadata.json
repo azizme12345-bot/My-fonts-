@@ -1,0 +1,6 @@
+{
+  "name": "Fontora - Professional Font Discovery, Preview & Download Platform",
+  "description": "Discover, preview, and download stunning Urdu, Arabic, Hindi, English, and Roman Urdu fonts with live typography customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
